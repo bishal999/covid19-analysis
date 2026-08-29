@@ -1,6 +1,5 @@
 
-
-# COVID-19 Analysis
+# COVID-19 Pandemic Analysis
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white" alt="Python">
@@ -317,5 +316,4 @@ jupyter notebook
 | `Exploratory_analysis_socioeconomic.ipynb` | World Bank correlations; mortality vs. socioeconomic indicators | Correlation matrix, scatter plots with regression slopes |
 | `Exploratory_analysis_fancy_plot.ipynb` | Publication-ready heatmap visualization for repository README | `covid_tiles.png` (1600×800, 200 DPI) |
 
----
 
