@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# covid19-analysis
-=======
+
 # COVID-19 Pandemic Analysis
 
 <p align="center">
@@ -318,18 +316,4 @@ jupyter notebook
 | `Exploratory_analysis_socioeconomic.ipynb` | World Bank correlations; mortality vs. socioeconomic indicators | Correlation matrix, scatter plots with regression slopes |
 | `Exploratory_analysis_fancy_plot.ipynb` | Publication-ready heatmap visualization for repository README | `covid_tiles.png` (1600×800, 200 DPI) |
 
----
 
-## Author
-
-**Sarvesh Kumar Sharma**
-
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
-
----
-
-<p align="center">
-  <a href="../README.md">← Back to repository root</a>
-</p>
->>>>>>> b965dcb (optimized code)
