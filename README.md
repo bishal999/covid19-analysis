@@ -1,7 +1,6 @@
 
-# covid19-analysis
 
-# COVID-19 Pandemic Analysis
+# COVID-19 Analysis
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white" alt="Python">
